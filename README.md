@@ -31,10 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![exp4i](https://github.com/STANLEY-13/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148198816/3729d36f-d5ae-4c13-9912-a1f1583bbe14)
+![image](https://github.com/Sanjay22006832/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119830477/879e6e77-58c9-483a-a5de-fca311600902)
+
 
 ### Output:
-![exp4](https://github.com/STANLEY-13/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148198816/8336aaac-26f7-4aee-89d0-7795237f9a2c)
+![image](https://github.com/Sanjay22006832/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119830477/d4d43c0d-7e28-46e7-a781-d0d3d24e4af0)
+
 
 
 ### Name: M Sanjay
